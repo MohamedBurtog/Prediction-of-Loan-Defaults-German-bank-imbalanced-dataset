@@ -1,4 +1,4 @@
-**Title**: Prediction of Loan Default
+**Title**: Prediction of Loan Default.__
 
 **Description**: Building predictive model to predict customers whom will default based personal and historical data of the applicants.
 
